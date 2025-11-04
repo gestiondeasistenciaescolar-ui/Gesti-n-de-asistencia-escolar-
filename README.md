@@ -2,7 +2,7 @@
 <p align="center">
 <img width="550" height="551" alt="ChatGPT Image 4 nov 2025, 03_33_20 p m" src="https://github.com/user-attachments/assets/782fca57-b3ea-41d1-a069-01cb4f9332f2" />
 </p>
-### __Planteamiento del problema_ 
+### __Planteamiento del problema__
 En muchas instituciones educativas, el control de asistencia se realiza de forma manual, generando errores, demoras y poca comunicación con los padres. Esta falta de seguimiento oportuno hace que las faltas injustificadas pasen desapercibidas, provocando bajo rendimiento y, en algunos casos, la pérdida de materias. Se necesita un sistema que automatice el control y la notificación de asistencia, y que además gestione las consecuencias académicas derivadas de las inasistencias, permitiendo actuar a tiempo para evitar la desercion y mejorar el rendimiento escolar.
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
 ### __Justificacion__
