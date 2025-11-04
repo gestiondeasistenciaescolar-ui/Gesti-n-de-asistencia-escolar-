@@ -11,6 +11,9 @@ El proyecto propone el desarrollo de un sistema de información para el control,
 ###_Objetivo general_
 Desarrollar una plataforma web que automatice el control de asistencia y gestione las consecuencias académicas por faltas injustificadas, con el fin de prevenir la pérdida de materias, fortalecer la comunicación institucional y mejorar el rendimiento académico de los estudiantes.
 
+### __Objetivo general__
+Desarrollar una plataforma web que automatice el control de asistencia y gestione las consecuencias académicas por faltas injustificadas, con el fin de prevenir la pérdida de materias, fortalecer la comunicación institucional y mejorar el rendimiento académico de los estudiantes.
+
 ### __Objetivos especificos__
 1. Analizar los procesos actuales de control de asistencia en las instituciones educativas para identificar los requerimientos funcionales que orienten el desarrollo de la plataforma web.
 2. Diseñar e implementar módulos principales que integren el registro de usuarios, cursos, materias, horarios y estudiantes, garantizando una administración eficiente y segura de la información.
