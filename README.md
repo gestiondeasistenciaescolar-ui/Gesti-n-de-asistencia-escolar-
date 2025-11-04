@@ -1,4 +1,4 @@
-# Gestion-de-asistencia-escola
+# Gestion-de-asistencia-escolar
 <p align="center">
 <img width="550" height="551" alt="ChatGPT Image 4 nov 2025, 03_33_20 p m" src="https://github.com/user-attachments/assets/782fca57-b3ea-41d1-a069-01cb4f9332f2" />
 </p>
